@@ -3,8 +3,8 @@
 - 🌱 I’m currently pursuing my B.Tech in CSE.
 - 💞️ I’m looking forward to collaborate with many people.
 - 📫 Mail me at :: www.ankit.kbl@gmail.com
-     Alt E-mail :: www.ankit.creation161001@gmail.com
-     Instagram :: @ankit_rana_07
+- Alt E-mail :: www.ankit.creation161001@gmail.com
+- LinkedIn :: www.linkedin.com/in/ankit-rana-2a5591203
 
 <!---
 Ankit161001/Ankit161001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
