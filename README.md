@@ -25,7 +25,7 @@
 
 #### Platforms I use ::
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-510B69?flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-sublimetext-E72901?style=flat&logo=sublimetext&logoColor=green)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-pycharm-E72901?style=flat&logo=pycharm&logoColor=green)&nbsp;
 ![Spyder](https://img.shields.io/badge/-spyderide-E72901?style=flat&logo=spyderide&logoColor=green)&nbsp;
