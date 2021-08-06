@@ -27,18 +27,19 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/-pycharm-E72901?style=flat&logo=pycharm&logoColor=green)&nbsp;
-![Spyder](https://img.shields.io/badge/-spyderide-E72901?style=flat&logo=spyderide&logoColor=green)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-E72901?style=flat&logo=Anaconda&logoColor=green)&nbsp;
-![Jupyter](https://img.shields.io/badge/-jupyter-E72901?style=flat&logo=jupyter&logoColor=green)&nbsp;
-![Colab](https://img.shields.io/badge/-googlecolab-E72901?style=flat&logo=googlecolab&logoColor=green)&nbsp;
-
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)&nbsp;
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyderide&logoColor=white)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)&nbsp;
+<br>
+<br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333" />
 
-### 📫 &nbsp; How to reach me:
+### 📫 My Socials
 
 
-<a href="www.linkedin.com/in/ankit-rana-2a5591203"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="www.linkedin.com/in/ankit-rana-2a5591203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="www.ankit.kbl@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/ankit07"><img src="https://img.shields.io/badge/-@ankit07-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <!---
