@@ -49,6 +49,8 @@ I often post my artpieces on my Instagram handles.... feel free to check 'em out
 
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?flat&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)&nbsp;
 
 ### 📫 My Socials
 
