@@ -2,9 +2,10 @@
 - 👀 I’m interested in everything Tech.
 - 🌱 I’m currently pursuing my B.Tech in CSE.
 - 💞️ I’m looking forward to collaborate with many people.
+<!--
 - 📫 Mail me at :: www.ankit.kbl@gmail.com
 - Alt E-mail :: www.ankit.creation161001@gmail.com
-- LinkedIn :: www.linkedin.com/in/ankit-rana-2a5591203
+- LinkedIn :: www.linkedin.com/in/ankit-rana-2a5591203 -->
 
 ### ⚙ My TeCh StAcK 🛠
 
@@ -41,7 +42,8 @@
 
 <a href="https://www.linkedin.com/in/ankit-rana-2a5591203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="www.ankit.kbl@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/ankit_rana_07"><img src="https://img.shields.io/badge/-@ankit07-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/ankit_rana_07"><img src="https://img.shields.io/badge/-@ankit_rana_07-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/ankit_creations"><img src="https://img.shields.io/badge/-@ankit_creations-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <!---
 Ankit161001/Ankit161001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
