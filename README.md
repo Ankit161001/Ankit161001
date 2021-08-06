@@ -36,12 +36,25 @@
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333" />
+<br>
+### My Creative Side 🎨
+
+My latest artpiece...
+
+![Screenshot (1360)](https://user-images.githubusercontent.com/61089784/128549986-eff648f0-47fd-4947-8391-3d7ed0853ce0.png)
+
+I often post my artpieces on my Instagram handles.... feel free to check 'em out.
+
+#### Art platforms I work on 🖌
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?flat&logo=adobephotoshop&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 
 ### 📫 My Socials
 
 
 <a href="https://www.linkedin.com/in/ankit-rana-2a5591203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="www.ankit.kbl@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:www.ankit.kbl@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/ankit_rana_07"><img src="https://img.shields.io/badge/-@ankit_rana_07-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/ankit_creations"><img src="https://img.shields.io/badge/-@ankit_creations-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <!---
