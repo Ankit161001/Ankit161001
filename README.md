@@ -6,27 +6,27 @@
 - Alt E-mail :: www.ankit.creation161001@gmail.com
 - LinkedIn :: www.linkedin.com/in/ankit-rana-2a5591203
 
-### ⚙ My TeCh StAcK 🛠 ::
+### ⚙ My TeCh StAcK 🛠
 
-#### Familiar Languages ::
+#### Familiar With 👨🏻‍💻
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/-Java-FFA518?style=flat&logo=Java&logoColor=black)&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-tensorflow-E72901?style=flat&logo=tensorflow&logoColor=green)&nbsp;
-![OpenCV](https://img.shields.io/badge/-opencv-E72901?style=flat&logo=opencv&logoColor=green)&nbsp;
+![Keras](https://img.shields.io/badge/keras-D00000?&style=flat&logo=keras&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/-opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;
 
-#### Platforms I use ::
+#### Platforms I use 💻
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-510B69?flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-sublimetext-E72901?style=flat&logo=sublimetext&logoColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-pycharm-E72901?style=flat&logo=pycharm&logoColor=green)&nbsp;
 ![Spyder](https://img.shields.io/badge/-spyderide-E72901?style=flat&logo=spyderide&logoColor=green)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-E72901?style=flat&logo=Anaconda&logoColor=green)&nbsp;
