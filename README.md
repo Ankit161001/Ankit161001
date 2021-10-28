@@ -37,6 +37,7 @@
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333" />
 <br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333&layout=compact" />
 ### My Creative Side 🎨
 
 My latest artpiece...
