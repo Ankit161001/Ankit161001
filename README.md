@@ -23,6 +23,7 @@
 ![Keras](https://img.shields.io/badge/keras-D00000?&style=flat&logo=keras&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-9a48c7?style=flat&logo=sqlite&logoColor=white)&nbsp;
 
 #### Platforms I use 💻
 
@@ -33,6 +34,8 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)&nbsp;
+![Atom](https://img.shields.io/badge/-Atom-7fc951?style=flat&logo=atom&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-487dc7?style=flat&logo=mysql&logoColor=white)&nbsp;
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333" />
