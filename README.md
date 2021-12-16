@@ -24,6 +24,8 @@
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-9a48c7?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-746ae6?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-2e452e?style=flat&logo=django&logoColor=white)&nbsp;
 
 #### Platforms I use 💻
 
@@ -55,6 +57,7 @@ I often post my artpieces on my Instagram handles.... feel free to check 'em out
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-f7a436?style=flat&logo=blender&logoColor=white)&nbsp;
 
 ### 📫 My Socials
 
