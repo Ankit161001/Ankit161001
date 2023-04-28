@@ -11,18 +11,20 @@
 
 #### Familiar With 👨🏻‍💻
 
-![Terraform](https://img.shields.io/badge/-Terraform-2e452e?style=flat&logo=terraform&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-2e452e?style=flat&logo=microsoft%20azure&logoColor=white)&nbsp;
-![Azure Pipelines](https://img.shields.io/badge/-Azure520Pipelines-2e452e?style=flat&logo=azure%20pipelines&logoColor=white)&nbsp;
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-2e452e?style=flat&logo=azure%20devops&logoColor=white)&nbsp;
-![YAML](https://img.shields.io/badge/-YAML-2e452e?style=flat&logo=yaml&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-2e452e?style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2e452e?style=flat&logo=docker&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-2e452e?style=flat&logo=git&logoColor=white)&nbsp;
-![Powershell](https://img.shields.io/badge/-Powershell-2e452e?style=flat&logo=powershell&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft%20azure&logoColor=white)&nbsp;
+![Azure Pipelines](https://img.shields.io/badge/-Azure520Pipelines-2560E0?style=flat&logo=azure%20pipelines&logoColor=white)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure%20devops&logoColor=white)&nbsp;
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![Powershell](https://img.shields.io/badge/-Powershell-5391FE?style=flat&logo=powershell&logoColor=white)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-000000?style=flat&logo=json&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-2e452e?style=flat&logo=gnu%20bash&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu%20bash&logoColor=white)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET%206-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+![Node JS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-FFA518?style=flat&logo=Java&logoColor=black)&nbsp;
@@ -36,20 +38,20 @@
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-487dc7?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-9a48c7?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![RedHat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?style=flat&logo=red-hat&logoColor=white)&nbsp;
+![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-746ae6?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2e452e?style=flat&logo=django&logoColor=white)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-2e452e?style=flat&logo=matlab&logoColor=white)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-e67300?style=flat&logo=matlab&logoColor=white)&nbsp;
 ![GNU Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-2e452e?style=flat&logo=markdown&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-75a3a3?style=flat&logo=markdown&logoColor=white)&nbsp;
 ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)&nbsp;
-
-
-
-
 
 #### Platforms I use 💻
 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?flat&logo=visual-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)&nbsp;
@@ -58,7 +60,9 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-7fc951?style=flat&logo=atom&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-487dc7?style=flat&logo=mysql&logoColor=white)&nbsp;
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Ankit161001&&show_icons=true&title_color=cc33ff&icon_color=33ccff&text_color=00cc66&bg_color=333333" />
