@@ -26,6 +26,12 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-9a48c7?style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-746ae6?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2e452e?style=flat&logo=django&logoColor=white)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET%206-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-2e452e?style=flat&logo=microsoft%20azure&logoColor=white)&nbsp;
+![Azure Pipelines](https://img.shields.io/badge/-Azure520Pipelines-2e452e?style=flat&logo=azure%20pipelines&logoColor=white)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-2e452e?style=flat&logo=azure%20devops&logoColor=white)&nbsp;
+![YAML](https://img.shields.io/badge/-YAML%20DevOps-2e452e?style=flat&logo=yaml%20devops&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-2e452e?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Platforms I use 💻
 
