@@ -13,7 +13,7 @@
 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft%20azure&logoColor=white)&nbsp;
-![Azure Pipelines](https://img.shields.io/badge/-Azure520Pipelines-2560E0?style=flat&logo=azure%20pipelines&logoColor=white)&nbsp;
+![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=azure%20pipelines&logoColor=white)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure%20devops&logoColor=white)&nbsp;
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
@@ -62,6 +62,10 @@
 ![Atom](https://img.shields.io/badge/-Atom-7fc951?style=flat&logo=atom&logoColor=white)&nbsp;
 ![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)&nbsp;
 
 <br>
 <br>
